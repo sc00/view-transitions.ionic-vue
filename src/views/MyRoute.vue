@@ -6,7 +6,7 @@
           <IonBackButton />
         </IonButtons>
       </IonToolbar>
-      <h1>My Index Heading</h1>
+      <h1>My Route Heading</h1>
       <div class="list-header">
         <h2>My List Header</h2>
         <IonButton>+</IonButton>
